@@ -409,7 +409,7 @@ Typically used to execute a block of code for a certain number of times. For loo
 
 ### Foreach Loop  
 
-Used to iterate over arrays.  
+Used to itterate over arrays.  
 
 	<?php  
 	
